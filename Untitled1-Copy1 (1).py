@@ -19,13 +19,13 @@ weight=np.array(weight)
 # In[4]:
 
 
-height
+
 
 
 # In[5]:
 
 
-print(type(height))
+
 
 
 # In[6]:
